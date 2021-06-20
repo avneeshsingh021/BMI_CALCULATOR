@@ -21,4 +21,4 @@ This Application has 2 routes 1 main route that hold the all the selection such 
 ## App Screens
 
 ![image](https://user-images.githubusercontent.com/54629197/122679897-599e8900-d20a-11eb-8355-7474433fb626.png)
-![image](https://user-images.githubusercontent.com/54629197/122679906-64f1b480-d20a-11eb-8612-462e24dd5b4c.png)
+![image](https://user-images.githubusercontent.com/54629197/122680132-6bccf700-d20b-11eb-8881-18e6d74354a7.png)
