@@ -1,16 +1,24 @@
 # bmi_cal
 
-A new Flutter project.
+This flutter project uses many widgets like 
+1. Gesture Dectector 
+2. slider widget
+3. Expanded
+4. Container
+5. Themes
+6. Custom Buttons using FAB RAW MATERIAL widget etc.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This Application has 2 routes 1 main route that hold the all the selection such as
+1. Age Selection 
+2. Gender selection
+3. Height
+4. Weight
 
-A few resources to get you started if this is your first Flutter project:
+2nd Route mainly has all the BMI Result, BMI - Type, BMI Result Interpretation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Screens
+
+![image](https://user-images.githubusercontent.com/54629197/122679897-599e8900-d20a-11eb-8355-7474433fb626.png)
+![image](https://user-images.githubusercontent.com/54629197/122679906-64f1b480-d20a-11eb-8612-462e24dd5b4c.png)
